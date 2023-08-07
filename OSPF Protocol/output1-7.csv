@@ -1,0 +1,30 @@
+Routing table for node number 7 at time 15
+Destination,path,cost
+0,7 0 ,9
+1,7 2 1 ,6
+2,7 2 ,3
+3,7 3 ,4
+4,7 2 4 ,10
+5,7 5 ,9
+6,7 3 6 ,9
+8,7 8 ,7
+Routing table for node number 7 at time 30
+Destination,path,cost
+0,7 0 ,9
+1,7 2 1 ,8
+2,7 2 ,4
+3,7 3 ,5
+4,7 2 4 ,13
+5,7 5 ,10
+6,7 3 6 ,12
+8,7 8 ,6
+Routing table for node number 7 at time 45
+Destination,path,cost
+0,7 0 ,9
+1,7 2 1 ,5
+2,7 2 ,2
+3,7 3 ,3
+4,7 2 1 5 4 ,9
+5,7 2 1 5 ,6
+6,7 3 6 ,6
+8,7 8 ,6

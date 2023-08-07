@@ -1,0 +1,30 @@
+Routing table for node number 5 at time 15
+Destination,path,cost
+0,5 1 0 ,6
+1,5 1 ,2
+2,5 1 2 ,5
+3,5 1 2 3 ,12
+4,5 4 ,5
+6,5 6 ,9
+7,5 7 ,7
+8,5 8 ,7
+Routing table for node number 5 at time 30
+Destination,path,cost
+0,5 1 0 ,6
+1,5 1 ,2
+2,5 1 2 ,6
+3,5 1 2 3 ,8
+4,5 4 ,3
+6,5 4 6 ,8
+7,5 1 2 7 ,8
+8,5 4 8 ,13
+Routing table for node number 5 at time 45
+Destination,path,cost
+0,5 1 0 ,8
+1,5 1 ,3
+2,5 1 2 ,7
+3,5 4 3 ,12
+4,5 4 ,3
+6,5 4 6 ,9
+7,5 7 ,8
+8,5 8 ,15

@@ -1,0 +1,9 @@
+
+This time I had to implement 3 threads for each of the node which is difficult 
+
+for this assignment I have almost 4hrs for debugging as even a small mistake can change the results of the 
+outcome. 
+
+in total I have implemented 3*n + 1 threads excluding the main thread. 
+
+This is a bit difficult for me to do but I have done it anyways

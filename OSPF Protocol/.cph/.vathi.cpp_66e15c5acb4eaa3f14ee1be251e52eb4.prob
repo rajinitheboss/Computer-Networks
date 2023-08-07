@@ -1,0 +1,1 @@
+{"name":"Local: vathi","url":"/Users/krishnasai/Desktop/Computer Networks/LAB5/vathi.cpp","tests":[{"id":1682074571832,"input":"left\n4 0 0 4\n32 16 16 32\n512 1024 1024 256\n2 4 8 16","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/krishnasai/Desktop/Computer Networks/LAB5/vathi.cpp","group":"local","local":true}

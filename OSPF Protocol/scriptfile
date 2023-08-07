@@ -1,0 +1,84 @@
+Script started on Fri Apr 28 23:21:53 2023
+]1337;RemoteHost=krishnasai@krishnas-MacBook-Air.local]1337;CurrentDir=/Users/krishnasai/Desktop/Computer Networks/LAB5]1337;ShellIntegrationVersion=13;shell=zsh[1m[7m%[27m[1m[0m                                                                                                                                                    ]133;D;0]1337;RemoteHost=krishnasai@krishnas-MacBook-Air.local]1337;CurrentDir=/Users/krishnasai/Desktop/Computer Networks/LAB5[0m[27m[24m[J]133;A(base) krishnasai@krishnas-MacBook-Air LAB5 % ]133;B[K[?2004hppython final.py i -i 1 0 -f ip nput1.txt -f  o putp    oup tput1[?2004l
+]133;C;starting receiving thread for node 0
+starting receiving thread for node 1
+starting receiving thread for node 2
+starting receiving thread for node 3
+starting receiving thread for node 4
+starting receiving thread for node 5
+starting receiving thread for node 6
+starting receiving thread for node 7
+starting receiving thread for node 8
+starting thread for sending hello for node 0
+starting thread for sending hello for node 1
+starting thread for sending hello for node 2
+starting thread for sending hello for node 3
+starting thread for sending hello for node 4
+starting thread for sending hello for node 5
+starting thread for sending hello for node 6
+starting thread for sending hello for node 7
+starting thread for sending hello for node 8
+starting thread for sending lsa for node0
+starting thread for sending lsa for node1
+starting thread for sending lsa for node2
+starting thread for sending lsa for node3
+starting thread for sending lsa for node4
+starting thread for sending lsa for node5
+starting thread for sending lsa for node6
+starting thread for sending lsa for node7
+starting thread for sending lsa for node8
+closing all the file pointers for the outputfiles 
+Sending messages to all threads to terminate
+All Threads are terminated and closing the program
+[1m[7m%[27m[1m[0m                                                                                                                                                    ]133;D;0]1337;RemoteHost=krishnasai@krishnas-MacBook-Air.local]1337;CurrentDir=/Users/krishnasai/Desktop/Computer Networks/LAB5[0m[27m[24m[J]133;A(base) krishnasai@krishnas-MacBook-Air LAB5 % ]133;B[K[?2004hppypthon      thon final.py -i 0 -f input2.txt -o putput      outup  put2[?2004l
+]133;C;starting receiving thread for node 0
+starting receiving thread for node 1
+starting receiving thread for node 2
+starting receiving thread for node 3
+starting receiving thread for node 4
+starting receiving thread for node 5
+starting receiving thread for node 6
+starting receiving thread for node 7
+starting receiving thread for node 8
+starting receiving thread for node 9
+starting receiving thread for node 10
+starting receiving thread for node 11
+starting receiving thread for node 12
+starting receiving thread for node 13
+starting receiving thread for node 14
+starting thread for sending hello for node 0
+starting thread for sending hello for node 1
+starting thread for sending hello for node 2
+starting thread for sending hello for node 3
+starting thread for sending hello for node 4
+starting thread for sending hello for node 5
+starting thread for sending hello for node 6
+starting thread for sending hello for node 7
+starting thread for sending hello for node 8
+starting thread for sending hello for node 9
+starting thread for sending hello for node 10
+starting thread for sending hello for node 11
+starting thread for sending hello for node 12
+starting thread for sending hello for node 13
+starting thread for sending hello for node 14
+starting thread for sending lsa for node0
+starting thread for sending lsa for node1
+starting thread for sending lsa for node2
+starting thread for sending lsa for node3
+starting thread for sending lsa for node4
+starting thread for sending lsa for node5
+starting thread for sending lsa for node6
+starting thread for sending lsa for node7
+starting thread for sending lsa for node8
+starting thread for sending lsa for node9
+starting thread for sending lsa for node10
+starting thread for sending lsa for node11
+starting thread for sending lsa for node12
+starting thread for sending lsa for node13
+starting thread for sending lsa for node14
+closing all the file pointers for the outputfiles 
+Sending messages to all threads to terminate
+All Threads are terminated and closing the program
+[1m[7m%[27m[1m[0m                                                                                                                                                    ]133;D;0]1337;RemoteHost=krishnasai@krishnas-MacBook-Air.local]1337;CurrentDir=/Users/krishnasai/Desktop/Computer Networks/LAB5[0m[27m[24m[J]133;A(base) krishnasai@krishnas-MacBook-Air LAB5 % ]133;B[K[?2004heend e exit[?2004l
+]133;C;
+Script done on Fri Apr 28 23:25:36 2023

@@ -1,0 +1,22 @@
+
+For every question I have created a folder where there will be two program codes. one for server
+and another for client. 
+I have written all the codes in python. 
+Every time one code should be run in one terminal and another should be run in another terminal
+
+For question 1:
+    after running server program in one terminal and client program in another terminal the client
+    program prompts to enter a message until you type "exit". For every string that is given as input
+    client will print the same again as output.
+
+For question 2:
+    I have written a UDP based math server. 
+    since I have written in python, I have prompted the user to enter the port number for both 
+    server and client 
+
+For question3 :
+    I have written a TCP based server when server and client run in two different terminals the client 
+    prompts for the name of the file and size of file the server will return the end bytes of the file 
+    and the client will take the bytes and save them into another file.
+
+

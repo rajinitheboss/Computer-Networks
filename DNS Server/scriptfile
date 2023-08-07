@@ -1,0 +1,39 @@
+Script started on Sat Mar  4 22:24:44 2023
+]1337;RemoteHost=krishnasai@krishnas-MacBook-Air.local]1337;CurrentDir=/Users/krishnasai/Desktop/Assignment2]1337;ShellIntegrationVersion=13;shell=zsh[1m[7m%[27m[1m[0m                                                                                                                                           ]133;D;0]1337;RemoteHost=krishnasai@krishnas-MacBook-Air.local]1337;CurrentDir=/Users/krishnasai/Desktop/Assignment2[0m[27m[24m[J]133;A(base) krishnasai@krishnas-MacBook-Air Assignment2 % ]133;B[K[?2004hmmake run file=inputfile_2 portnum=34000[?2004l
+]133;C;Root DNS server is up and running
+TLD_com is up and running
+TLD_edu is up and running
+ADS server number 1 is up and running
+ADS server number 2 is up and running
+ADS server number 3 is up and running
+ADS server number 4 is up and running
+ADS server number 5 is up and running
+ADS server number 6 is up and running
+local DNS is up and running
+Enter Server name :smtp.brown.edu
+DNS Mapping: 192.13.5.2
+Enter Server name :vpn.mynah.edu
+DNS Mapping: 198.167.5.5
+Enter Server name :smtp.cougar.edu
+DNS Mapping: 212.18.25.2
+Enter Server name :smtp.cougar.edu
+DNS Mapping: 212.18.25.2
+Enter Server name :smtp.cougar.com
+No DNS Record Found
+Enter Server name :sshd1.shop.com
+DNS Mapping: 133.54.5.4
+Enter Server name :krishna.sai.kottt akota
+No DNS Record Found
+Enter Server name :bongulo assignment  
+No DNS Record Found
+Enter Server name :inkenni cheyyalantav
+No DNS Record Found
+Enter Server name :frp.  p.shp op.com
+No DNS Record Found
+Enter Server name :ftp.store.com
+DNS Mapping: 143.11.5.23
+Enter Server name :bye
+All Server Processes are killed. Exiting.
+[1m[7m%[27m[1m[0m                                                                                                                                           ]133;D;0]1337;RemoteHost=krishnasai@krishnas-MacBook-Air.local]1337;CurrentDir=/Users/krishnasai/Desktop/Assignment2[0m[27m[24m[J]133;A(base) krishnasai@krishnas-MacBook-Air Assignment2 % ]133;B[K[?2004heexit[?2004l
+]133;C;
+Script done on Sat Mar  4 22:27:08 2023

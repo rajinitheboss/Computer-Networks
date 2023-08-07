@@ -1,0 +1,7 @@
+
+* This assignment is a bit difficult one compared to the previous assignments as this involves manythings
+* I thought it can be done with one timer as GBN requires only one timer but to calculate rtt and everything 
+    we need timers for each packet
+* and we have to write a report for it 
+* Issues I faced while doing this is that the packets are not getting dropped. as the probability is too less
+    and I am getting retransmission ratio as 1
